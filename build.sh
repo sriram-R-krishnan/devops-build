@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t mycapstoneapplication .
+docker build -t mycapstoneapplication .     #build command
