@@ -1,0 +1,8 @@
+version: '3.9'
+
+services:
+    web:
+      image: project:v1
+      container_name: react
+      ports:
+        - "8081:80"
