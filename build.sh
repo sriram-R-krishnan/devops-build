@@ -9,5 +9,4 @@ docker images
 docker-compose up -d
 docker ps
 
-echo "Container created successfully"
-echo "Build script success"
+
