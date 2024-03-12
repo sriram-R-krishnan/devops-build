@@ -1,14 +1,10 @@
 #!/bin/bash
 
 
-#name and version for images
-IMAGE_NAME="project"
-IMAGE_VERSION= "v1"
-
 # Tag the image with the Docker Hub repository name and version
-docker tag $IMAGE_NAME:$IMAGE_VERSION arundinesh3005/prod:$IMAGE_VERSION
-docker tag $IMAGE_NAME:$IMAGE_VERSION arundinesh3005/dev:$IMAGE_VERSION
+docker tag project:v1 arundinesh3005/prod
+docker tag project:v1 arundinesh3005/dev
 
 # Push the image to Docker Hub
-docker push arundinesh3005/prod:$IMAGE_VERSION
-docker push arundinesh3005/dev:$IMAGE_VERSION
+docker push arundinesh3005/prod
+docker push arundinesh3005/dev
