@@ -2,8 +2,8 @@
 
 
 #name and version for images
-Image_name: project
-Image_version: v1
+IMAGE_NAME="project"
+IMAGE_VERSION= "v1"
 
 # Tag the image with the Docker Hub repository name and version
 docker tag $IMAGE_NAME:$IMAGE_VERSION arundinesh3005/prod:$IMAGE_VERSION
