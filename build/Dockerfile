@@ -1,8 +1,8 @@
 FROM node:latest
 
-COPY . /opt
-
 WORKDIR /opt
+
+COPY . /opt
 
 RUN npm install
 
