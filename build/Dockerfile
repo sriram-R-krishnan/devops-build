@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8080
 
-CMD ["npm", "asset-manifest.json"]
+CMD ["npm", "index.html"]
