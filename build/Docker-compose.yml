@@ -5,4 +5,4 @@ services:
     images: react-app:latest
     restart: always
     ports: 
-      -"3000:3000"
+      -"3000:80"
