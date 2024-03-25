@@ -1,2 +1,2 @@
 Dockerhub: https://hub.docker.com/repositories/saipuja1996
-Deployment url http://reacttestnew.s3-website.ap-south-1.amazonaws.com/
+Deployment url http://19.308.145.280/
