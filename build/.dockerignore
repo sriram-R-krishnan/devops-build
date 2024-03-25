@@ -1,0 +1,9 @@
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_modules
+.git
+.gitignore
+build
+*.log
+.DS_Store

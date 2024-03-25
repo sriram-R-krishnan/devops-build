@@ -1,0 +1,2 @@
+Dockerhub: https://hub.docker.com/repositories/saipuja1996
+Deployment url http://19.308.145.280/
