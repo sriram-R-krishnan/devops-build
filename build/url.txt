@@ -1,0 +1,2 @@
+Dockerhub: https://hub.docker.com/repositories/snsai3690
+Deployment url http://devopstestsnsai.s3-website.us-east-2.amazonaws.com/
